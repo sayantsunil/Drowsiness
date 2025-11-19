@@ -1,4 +1,5 @@
 Driver Drowsiness Detection System
+
 A real-time computer vision system to detect driver drowsiness using Eye Aspect Ratio (EAR) via MediaPipe Face Mesh and alert the driver with a sound using Pygame.
 
 Features
